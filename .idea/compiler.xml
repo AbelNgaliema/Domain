@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="abelngaliema" />
+        <module name="ADP" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="abelngaliema" target="1.5" />
+      <module name="ADP" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
